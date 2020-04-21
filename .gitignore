@@ -1,2 +1,4 @@
 *.exe
 export-lecture-source/
+build/
+.vscode/
