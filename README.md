@@ -10,4 +10,7 @@ My assignments
 
 ```text
 g++ [name].cpp -o [exe name]
+
+# in Windows
+g++ [name].cpp -o [exe name] -fexec-charset=EUC-KR
 ```
