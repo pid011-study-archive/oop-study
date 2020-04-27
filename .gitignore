@@ -1,4 +1,4 @@
 *.exe
-export-lecture-source/
 build/
 .vscode/
+tools/config.json
