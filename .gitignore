@@ -1,4 +1,4 @@
 *.exe
 build/
 .vscode/
-tools/config.json
+tools/
