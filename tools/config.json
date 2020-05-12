@@ -1,5 +1,5 @@
 {
-  "TargetFilePath": "D:\\workspace\\learn\\cpp\\hellocpp\\main.cpp",
-  "ExportPath": "D:\\workspace\\repos\\github.com\\pid011\\oop-study",
+  "TargetFilePath": "/mnt/d/wsl/workspace/hellocpp/main.cpp",
+  "ExportPath": "/mnt/d/wsl/workspace/oop-study",
   "SourceTypes": ["examples", "assignments"]
 }
