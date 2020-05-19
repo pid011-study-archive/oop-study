@@ -1,5 +1,5 @@
 {
-  "TargetFilePath": "/mnt/d/wsl/workspace/hellocpp/main.cpp",
-  "ExportPath": "/mnt/d/wsl/workspace/oop-study",
+  "TargetFilePath": "D:\\workspace\\learn\\cpp\\HelloWorld\\main.cpp",
+  "ExportPath": "..",
   "SourceTypes": ["examples", "assignments"]
 }
