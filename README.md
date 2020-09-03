@@ -1,7 +1,3 @@
-# My OOP study / assignments
+# oop-study
 
-My assignments
-
-## File naming
-
-(course_number)-(source_number)-(title).*
+2020년 1학기 객체지향 기초 코드 아카이브
